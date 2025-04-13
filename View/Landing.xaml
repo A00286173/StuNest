@@ -59,7 +59,7 @@
             </Border>
         </Grid>
         <Grid Grid.Row="1" RowDefinitions="Auto, Auto, Auto" HorizontalOptions="FillAndExpand">
-            <Label Text="Cairo" TextColor="Black" FontAttributes="Bold" FontSize="24" VerticalOptions="Center"/>
+            <Label Text="Vancouver" TextColor="Black" FontAttributes="Bold" FontSize="24" VerticalOptions="Center"/>
             <Image Source="https://pics.freeicons.io/uploads/icons/png/568635131536669843-512.png" WidthRequest="30" HorizontalOptions="End" VerticalOptions="Center"/>
             <Line Grid.Row="1" X1="0" X2="1000" Stroke="#f0f0f1"/>
             <ScrollView Orientation="Horizontal" Grid.Row="2" HorizontalScrollBarVisibility="Never">
