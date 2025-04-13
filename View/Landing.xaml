@@ -52,7 +52,7 @@
         <Grid HorizontalOptions="FillAndExpand">
             <VerticalStackLayout VerticalOptions="Center" Spacing="5">
                 <Label Text="Welcome back, " TextColor="Black" Opacity="0.5" FontSize="12"/>
-                <Label Text="John!" TextColor="Black" FontAttributes="Bold" FontSize="16"/>
+                <Label Text="Hrishav!" TextColor="Black" FontAttributes="Bold" FontSize="16"/>
             </VerticalStackLayout>
             <Border WidthRequest="60" HeightRequest="60" VerticalOptions="Center" HorizontalOptions="End" StrokeShape="RoundRectangle 30, 30, 30, 30" StrokeThickness="2" Stroke="#006663">
                 <Image Source="https://randomuser.me/api/portraits/men/31.jpg"/>
